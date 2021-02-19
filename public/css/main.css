@@ -1,0 +1,67 @@
+body {
+    display: flex;
+    color: #323232;
+    background-color: #fefefe;
+    font-family: 'Fira Mono', monospace;
+    font-size: 2em;
+    font-weight: 400;
+    letter-spacing: .0625em;
+    line-height: 1.8em
+}
+
+.bg {
+    font-family: 'Kanit', sans-serif;
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+    background-attachment: fixed;
+
+}
+.next-post {
+    text-align: right;
+    padding-right: 5px;
+}
+
+.prev-post {
+    text-align: left;
+    padding-left: 5px;
+}
+.magnifyBtn {
+    padding-left: 10px;
+    background-color: transparent;
+    border-radius: 6px;
+    transition: transform 250ms ease-in-out;
+}
+
+.magnifyBtn:hover {
+    transform: scale(1.10);
+}
+
+.magnifyBtn:active {
+    transform: scale(.9);
+}
+.magnifyText {
+    color: hsl(222, 25%, 14%);
+    transition: 0.25s ease-in-out, transform 0.25s ease-in-out;
+}
+
+.magnifyText:hover {
+    transform: scale(1.05);
+}
+
+.magnifyText:active {
+    transform: scale(.9);
+}
+
+.dark-mode {
+  background: url(..//images/bg_dark.jpg);
+  font-family: 'Kanit', sans-serif;
+  background-repeat: no-repeat;
+  background-position-y: bottom;
+  background-attachment: fixed;
+  color: #fefefe;
+}
+a {
+    font-weight: 700;
+    color: #000;
+    text-decoration: none
+}

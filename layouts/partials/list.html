@@ -1,0 +1,12 @@
+<section class="container list">
+  <h1 class="title neon3">{{ .Title }}</h1>
+  <ul> 
+    {{ range .Paginator.Pages }}
+    <li >
+      <span style="margin-top: 20px; font-size: larger;">{{ .Date.Format "January 2, 2006" }}</span>
+      <div class="magnifyText" style="display: inline;"><a href="{{ .Permalink }}"  style="font-size: 20px;">{{ .Title }}</a></div>
+    </li>
+    {{ end }}
+  </ul>
+  {{ partial "pagination.html" . }}
+</section>

@@ -1,0 +1,80 @@
+<style>
+    h2{
+    color: #fff;
+    text-shadow: 0 0 10px #03bcf4, 0 0 20px #03bcf4, 0 0 40px #03bcf4, 0 0 80px #03bcf4, 0 0 120px #03bcf4;
+  }
+</style>
+<section class="container post">
+  <article>
+    <header>
+      <h1 class="title">{{ .Title }}</h1>
+      <h3 class="date">{{ .Date.Format "January 2, 2006" }}</h2>
+
+      {{ if eq .Params.math "true" }}
+      <script type="text/javascript" async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML-full">
+          MathJax.Hub.Config({
+            tex2jax: {
+              inlineMath: [['$', '$']],
+              displayMath: [['$$', '$$']],
+              processEscapes: true,
+              processEnvironments: true,
+              skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+              TeX: { extensions: ["AMSmath.js", "AMSsymbols.js"] }
+            }
+          });
+          MathJax.Hub.Queue(function () {
+            // Fix <code> tags after MathJax finishes running. This is a
+            // hack to overcome a shortcoming of Markdown. Discussion at
+            // https://github.com/mojombo/jekyll/issues/199
+            var all = MathJax.Hub.getAllJax(), i;
+            for (i = 0; i < all.length; i += 1) {
+              all[i].SourceElement().parentNode.className += ' has-jax';
+            }
+          });
+        </script>
+      {{ end }}
+    </header>
+    {{ .Content }}
+  </article>
+
+  <br />
+
+  <!-- {{ if and (not (eq .Site.DisqusShortname "" )) (eq (.Params.disable_comments | default false) false)}}
+      {{ template "_internal/disqus.html" . }}
+  {{ end }} -->
+  <div
+    style="  display: flex; justify-content: space-between;  font-size: 1.1em; bottom: 10px;">
+    <div class="prev-post magnifyBtn">
+      {{- with .PrevInSection }}
+      <a href="{{ .Permalink }}">
+        <!-- <span class="post-nav-label">ก่อนหน้า&nbsp;<svg xmlns="http://www.w3.org/2000/svg" width="30" height="35"
+          viewBox="0 0 24 10" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+          stroke-linejoin="round" class="feather feather-arrow-right" style="padding-top: 15px;">
+          <line x1="5" y1="12" x2="19" y2="12"></line>
+          <polyline points="12 5 19 12 12 19"></polyline> -->
+        <span class="post-nav-label"><svg xmlns="http://www.w3.org/2000/svg" width="30" height="35" viewBox="0 0 24 10"
+            fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+            class="feather feather-arrow-left" style="padding-top: 15px;">
+            <line x1="19" y1="12" x2="5" y2="12"></line>
+            <polyline points="12 19 5 12 12 5"></polyline>
+          </svg>วันก่อนหน้า&nbsp;</span><br><span>{{ .Title }}</span>
+      </a>
+      {{- end }}
+    </div>
+    {{- with .NextInSection }}
+    <div class="next-post magnifyBtn">
+      <a href="{{ .Permalink }}">
+        <span class="post-nav-label">&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;วันต่อไป<svg
+            xmlns="http://www.w3.org/2000/svg" width="30" height="35" viewBox="0 0 24 10" fill="none"
+            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+            class="feather feather-arrow-right" style="padding-top: 15px;">
+            <line x1="5" y1="12" x2="19" y2="12"></line>
+            <polyline points="12 5 19 12 12 19"></polyline>
+          </svg></span><br><span>{{ .Title }}</span>
+      </a>
+
+      {{- end }}
+    </div>
+  </div>
+</section>

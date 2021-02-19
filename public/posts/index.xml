@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Komsorn</title>
+    <link>https://easy.egati.co.th/tarblog/posts/</link>
+    <description>Recent content in Posts on Komsorn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 29 Jan 2021 13:50:50 +0700</lastBuildDate><atom:link href="https://easy.egati.co.th/tarblog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 40</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day40/</link>
+      <pubDate>Fri, 29 Jan 2021 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day40/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 40 ในวันศุกร์นี้ผมก็ได้ทำงานตามที่พี่ฉ่อยได้สั่งไว้(เมื่อวาน) นั่นคือการเขียน README.md ของระบบ intranet
+และงานหลักของผม นั่นคือการเขียน blog นี้ ซึ่งวันนี้ขอพักจากการทำ Elib ก่อนนะครับ สำหรับวันนี้ก็สิ้นสุดแค่นี้</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 39</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day39/</link>
+      <pubDate>Thu, 28 Jan 2021 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day39/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 39 วันนี้ผม WFH เมื่อผมจะทำการเชื่อมสิ่งที่เขียนขึ้นมาเมื่อวานกับ database ก็พบว่ามันแปลกๆ
+จึงโทรไปหาพี่อ้วนเพื่อปรึกษา ทำให้วันนี้ผมแก้ไขในส่วน model เพื่อที่จะได้นำมาเชื่อมกัน
+และในตอนเย็นพี่ฉ่อยก็บอกว่าพรุ่งนี้ให้เขียน README.md ของระบบ intranet ด้วย</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 38</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day38/</link>
+      <pubDate>Wed, 27 Jan 2021 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day38/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 38 ในวันนี้เพื่อชดเชยกับงานที่ไม่เดินเมื่อวานผมจึงทำไปพอสมควร เช่นหน้าตา และ form ของหน้า เพิ่มเอกสารใหม่
+แก้ไข และ เพิ่มเอกสารนั้นๆ สำหรับผมมันค่อนข้างคืบหน้าพอสมควรและในวันนี้พี่ฉ่อยก็ได้เลี้ยงทั้งข้าวและกาแฟ (ผมไม่มีเงินสด)
+ผมรู้สึกขอบคุณมากครับ สำหรับ ชาในตอนเช้า ข้าวและกาแฟในมื้อกลางวันครับ</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 37</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day37/</link>
+      <pubDate>Tue, 26 Jan 2021 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day37/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 37 ในวันนี้ผมไม่ได้ทำอะไรมากนักเพราะต้องหยุดทำงานก่อนจะถึงเวลาเลิกงานเพราะธุระทางบ้าน
+และ pc ที่ใช้อยู่ที่บ้านเสียด้วยในช่วงเช้า จึงทำให้วันนี้งานไม่เดินมากนัก แต่ก็ได้ทำในส่วน
+หน้าตาหมวดหมู่เอกสารไป สำหรับวันนี้ก็เท่านี้ครับ</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 36</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day36/</link>
+      <pubDate>Mon, 25 Jan 2021 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day36/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 36 ต้องบอกก่อนเลยว่าในสัปดาห์นี้ไม่มีเรื่องอะไรให้เล่ามากมายนัก แค่จะเล่าถึงในวันนั้นๆระบบ Elib
+ทำฟังก์ชั่นอะไรเพิ่มไปบ้าง ในวันจันทร์นี้ผมก็ได้ทำการเขียน Model ที่จะใช้จริงขึ้นมา รวมถึง
+การทำ respondsive ให้ดีขึ้นจากเดิม สำหรับวันนี้ก็จบแค่นี้ครับ</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 35</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day35/</link>
+      <pubDate>Fri, 22 Jan 2021 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day35/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 35 ในวันศุกร์นี้ผมได้มีโอกาศเก็บ requirment กับพี่เอ๋ย และพี่แจม ซึ่งก็ยังมีจุดที่ต้องแก้ไขตามเดิมซึ่ง
+หลังจากที่ได้เก็บ requirment ไปแล้วพี่อ้วนก็บอกให้นำ requirment พวกนั้นไปทำเป็นฟังก์ชั่น
+และในช่วงบ่ายนี้ผมก็ทำการเขียนบันทึกการเอาชีวิตรอดที่ได้อ่านนี้ส่งพี่ฉ่อยเพื่อให้พี่ฉ่อย อัพขึ้น server
+ในวันนี้ก็หมดเท่านี้ครับ</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 34</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day34/</link>
+      <pubDate>Thu, 21 Jan 2021 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day34/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 34 ในวันนี้ก็เป็นตาของผมที่ได้ WFH ซึ่งปัญหาของผมวันนี้คือการนำข้อมูลใน database มาใช้กับเว็บไซต์
+ในความเป็นจริงผมก็ตื่นสายด้วยแหละครับวันนี้ ในตอนเช้าพี่หลิวเลยทักมาถามซึ่งผมก็ขอคำแนะนำกลับไปการนำข้อมูลมาใช้นั้น
+สำหรับผมค่อนข้างยาก เพราะตัวผมนั้นไม่ถนัดการใช้ database และการเขียนโปรแกรมหลังบ้าน(ชอบหน้าบ้านมากกว่า)
+และด้วยความช่วยเหลือของพี่หลิวก็ทำให้ผมนำข้อมูลมาใช้ได้สำเร็จ ซึ่งวันนี้ไม่ค่อยมีอะไรมากครับ</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 33</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day33/</link>
+      <pubDate>Wed, 20 Jan 2021 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day33/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 33 วันนี้พี่หลิวและพี่ฉ่อยได้มาทำงานที่ออฟฟิศ ซึ่งหลังจากที่ผมได้แก้ไขเรื่อง respondsive ไปแล้วผมก็ทำหน้าของชุดเอกสาร
+ออกมา และก่อนมื้อเที่ยงวันนี้พี่ฉ่อยได้เลี้ยงกาแฟด้วยครับ ถึงตอนนั้นจะไม่ได้ขอบคุณอย่างเป็นทางการไป(เพราะลืม) แต่ก็รู้สึกขอบคุณมากครับ
+และตอนช่วงบ่ายผมก็ได้ทำการออกแบบหน้าตาของเว็บไซต์เพิ่มเติมโดยใช้ figma เพื่อเป็นแนวทางในการเขียนเว็บไซต์จริงๆต่อไปครับ</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 32</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day32/</link>
+      <pubDate>Tue, 19 Jan 2021 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day32/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 32 ในวันอังคารนี้ พี่หลิวและพี่ฉ่อย WFH ทำให้ผมมาทำงานโดยมีพี่อ้วนและพี่เบลมาทำงานด้วย
+ซึ่งหลังจากที่แก้เรื่อง Database ได้แล้ว ซึ่งก็งงอยู่นานว่าจะทำยังไง แต่ก็ได้พี่หลิวมาให้คำแนะนำ
+และทำให้สามารถ เปลี่ยนจากการใช้ SQalchemy มาใช้ peewee ได้สำเร็จซึ่ง ในวันนี้ก็ได้เจอปัญหาอีก
+คือ เว็บที่ผมเขียนขึ้นมา ไม่ได้รองรับการ responsive ซึ่งนั่นทำให้เวลาย่อหน้าต่างลงมา ทำให้การจัด format เละไปหมด
+ทำให้วันนี้ผมก็ได้นั่งทำให้เว็บไซต์รองรับการ respondsive สำหรับวันนี้ก็มีแค่นี้ครับ</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 31</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day31/</link>
+      <pubDate>Mon, 18 Jan 2021 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day31/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 31 ในวันจันทร์ที่ 18 นี้ผมไปทำงานที่ออฟฟิศซึ่งวันนี้พี่ๆสทอ.มากันครบทุกคน
+พี่อ้วน พี่หลิว พี่เบล พี่ฉ่อย และผมก็เริ่มเขียน E-lib ต่อจากเดิม โดยวันนี้ก็พยามที่จะ
+นำ Database มาต่อกับโปรเจคซึ่งในตอนแรก โครงสร้างของโปรเจคไม่ได้รองรับการใช้งาน
+ตัว Database ที่จะนำมาใช้ ทำให้ต้องรื้อใหม่หมด แต่ก็ไม่เป็นอะไรมากเพราะ สามารถใช้ Code
+เดิมของ version เก่าได้ในบางส่วน ซึ่งในวันนี้ก็ขอจบเพียงเท่านี้ครับ</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 30</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day30/</link>
+      <pubDate>Fri, 15 Jan 2021 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day30/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 30 ในวันศุกร์สุดสัปดาห์นี้เป็นวันที่ผมได้กลับมาทำงานที่ office บรรยากาศวันนี้ค่อนข้างเงียบเหงา
+ทั้งบนถนนและที่ office ผมมาทำงานในวันนี้โดยมีพี่ฉ่อยมารับหน้าที่ดูแล ซึ่งในตอนเช้าก็ได้คุยกับพี่ฉ่อย
+เรื่องการปรับปรุงหน้าตาและกระบวนการทำงานของ Elib ซึ่งก็ออกมาเป็นข้อสรุปว่าจะเปลี่ยนแปลงการทำงาน และ
+User Experience ใหม่ ซึ่งผมก็ไปแก้มา เช่น หน้าแรกที่ต้อนรับด้วยการ Search และ หน้าของเอกสารนั้นๆที่เปลี่ยน
+ให้ดูง่ายและทันสมัยมากขึ้น</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 29</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day29/</link>
+      <pubDate>Thu, 14 Jan 2021 14:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day29/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 29 วันนี้เป็นวันที่จะนำเสนองานที่ไปแก้มา โดยมีพี่ต่ายจากแผนกบัญชี มาร่วมรับฟังด้วย
+ซึ่งเป็นการเก็บ User Requirment ไปในตัว ซึ่งหลังจากการนำเสนอก็ต้องมีส่วนที่ต้องแก้ไขอยู่ดี
+เช่น
+ การสรุปเนื้อหาแต่ละเวอร์ชั่นว่ามีอะไรเปลี่ยนไปบ้าง การแก้ไขคำต่างๆให้กระชับและเหมาะสมขึ้น การทำงานให้มีการ Click น้อยลง การเพิ่ม field สำหรับกรอกค่าอื่นๆเพิ่มเติม  ประมานนี้สำหรับการนำเสนอครั้งนี้</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 28</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day28/</link>
+      <pubDate>Wed, 13 Jan 2021 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day28/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 28 วันนี้ผมก็เริ่มลงมือกับการเขียนโค้ดโดยใช้ flask โดยใช้โครงของโปรเจคที่เคยเขียนมาแล้ว
+แต่ที่ต่างไปคือ วันนี้ผมไปเที่ยวบ้านเพื่อนด้วย(อย่าไปบอกพี่ฉ่อยนะครับ)
+ซึ่งก็คือการทำงานที่บ้านเพื่อน (ไม่ใช่ WORK FROM HOME) ซึ่งจริงๆก็ไม่มีปัญหาอะไรครับ ราบรื่นด้วยดี งานเสร็จดี</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 27</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day27/</link>
+      <pubDate>Tue, 12 Jan 2021 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day27/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 27 ในวันนี้ผมก็นั่งทำการแก้ไข UI ใน figma ต่อ ซึ่งก็ได้แก้ไขตามแนวทางของพี่อ้วน
+เช่น เพิ่ม Summary เข้าไป เป็นต้น จริงๆวันนี้ไม่มีอะไรให้พูดถึงมาก นอกจากพี่หลิวมาบอกว่า
+ควรเริ่มเขียนโค้ดได้แล้ว เดี๋ยวไม่ทันซึ่งผมก็นะ หึ ไว้เขียนพรุ่งนี้ วันนี้หมดวันแล้ว</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 26</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day26/</link>
+      <pubDate>Mon, 11 Jan 2021 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day26/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 26 ในวันจันทร์แบบนี้ก็นำเสนอผลงานที่ได้ไปแก้มาซึ่งหลังจากพี่อ้วนดูก็บอกว่าควรเพิ่มอะไรบ้าง
+เช่น
+ summary ของเอกสาร รูปแบบการทำงานที่ทำให้มีการ click น้อยที่สุดเป็นต้น  ซึ่งมีกำหนดการนำเสนอคือวันพฤหัสบดีที่ 14 มค.อีกทั้งวันนี้พี่อ้วนยังมีคำสั่งมาว่า
+วันที่ 15 มค. ต้องกลับมาทำงานที่ office เนื่องจาก เขตที่บ้านผม Covid19 เบาลงแล้ว</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 25</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day25/</link>
+      <pubDate>Fri, 08 Jan 2021 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day25/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 25 ในวันศุกร์สุดสัปดาห์นี้ผมก็ยังคงแก้ไขตามคำแนะนำที่ได้มาจากพี่อ้วนพี่ฉ่อย
+และงานอีกอย่างของผมคือการร่างการทำงานโดยคร่าวๆ ลงใน Trello เพื่อ
+จะได้เอาไว้ดูเป็นแนวทางในการพัฒนาระบบนี้ขึ้นมา</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 24</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day24/</link>
+      <pubDate>Thu, 07 Jan 2021 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day24/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 24 ในวันนี้พี่อ้วนและพี่ฉ่อยได้มาฟังการพรีเซนต์เรื่องหน้าตาของระบบ Elib ที่ได้ทำการแก้ใหม่
+ซึ่งก็ยังมีบางอย่างที่ต้องเพิ่มเติมอยู่ดี และบางจุดที่ต้องแก้ไขสำหรับจุดที่เพิ่มเข้ามาใหม่</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 23</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day23/</link>
+      <pubDate>Wed, 06 Jan 2021 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day23/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 23 ในการทำงานวันที่ 23 นี้ ผมได้ทำการแก้ไขหน้าตาของ Elib หลังจากที่ได้คุยกับพี่หลิวไป
+ซึ่งมีจุดที่ต้องแก้ไขพอสมควร ซึ่งผมก็เพิ่มเติมในบางจุดไปตามคำแนะนำที่ได้รับมาจากพี่หลิว</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 22</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day22/</link>
+      <pubDate>Tue, 05 Jan 2021 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day22/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 22 เนื่องจากได้รับงานมาผมก็ทำการออกแบบหน้าตาของ E-lib ขึ้นมาก่อนเพื่อ
+เป็นแนวทางในการพัฒนา ผมได้ออกแบบโดยใช้แอพพลิเคชั่น Figma
+มันเป็นแอพสำหรับการออกแบบ prototype ที่ใช้งานง่ายมาก
+ผมจึงออกแบบหน้าตาของเว็บไซต์ไปเรื่อยๆจนเสร็จในที่สุด</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 21</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day21/</link>
+      <pubDate>Mon, 04 Jan 2021 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day21/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 21 สวัสดีปีใหม่ครับ ต้อนรับปีใหม่ผมก็ได้รับคำสั่ง Work From Home ตั้งแต่ต้นปีเลย
+ทำให้ในวันนี้ผมก็ต้องทำงานอยู่ที่บ้าน ซึ่งในเช้านี้ก็มีประชุมกับพี่อ้วนและทีมงาน สทอ.
+ผ่านทาง Zoom ผมก็ได้รับมอบหมายงานชิ้นใหม่มา นั่นคือ การเขียนระบบ E-libary ขึ้นมาใหม่
+ผมเลยไปหาตัวอย่างของเว็บไซต์ที่คล้ายๆกันมาดูเป็นแบบ</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 20</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day20/</link>
+      <pubDate>Wed, 30 Dec 2020 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day20/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 20 วันนี้ที่บริษัทดำเนินไปด้วยความสบายๆชิวๆเนื่องจากบริษัทคู่ค้าหยุดไปแล้ว(พี่ฉ่อยบอกมา)
+ผมจึงได้โอกาสปล่อยเนื้อปล่อยตัวเล็กน้อย เพราะเห็นว่าเป็นการทำงานวันสุดท้ายของปี 2020
+สุดท้ายนี้ก็ขอสวัสดีปีใหม่ทุกๆคน ยินดีต้อนรับปี 2021
+＼(＾∀＾)メ(＾∀＾)ノ (っಠ‿ಠ)っ </description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 19</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day19/</link>
+      <pubDate>Tue, 29 Dec 2020 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day19/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 19 วันนี้ก็ได้แก้ไข Intranet ในส่วนของกฎบัตรภายใน เพราะพี่ฉ่อยบอกว่าอยากได้
+เป็นการเปิดเป็นไฟล์ PDF เลย แทนที่การเอาไปแปะไว้แบบเก่าในตอนแรกก็ต้องงมอยู่นาน
+แต่ในท้ายที่สุดก็ได้ทำจนสำเร็จจนได้ แต่พี่ฉ่อยเดินมาบอกว่าอาจจะต้องกลับไปใช้แบบเดิม
+เพราะง่ายต่อการดูแลรักษามากกว่า ผมนี่ (ノ°益°)ノ แทบจะคว่ำโต๊ะ</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 18</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day18/</link>
+      <pubDate>Mon, 28 Dec 2020 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day18/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 18 วันนี้พี่ฉ่อยลา พี่หลิว Work From Home ผมเลยเหงาๆหน่อย แต่ก็คิดได้ไม่นาน เพราะพี่ส้มบอกว่า
+วันนี้ช่วงบ่ายจะมีการพ่นยาฆ่าเชื้อที่บริษัท เพราะฉะนั้นเมื่อเที่ยงผมก็กลับบ้าน ซึ่งก่อนจะกลับผมก็ได้ไปทำการ
+ยื่นใบจบการศึกษาที่เกษตรก่อน</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 17</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day17/</link>
+      <pubDate>Fri, 25 Dec 2020 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day17/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 17 ในช่วงเช้าวันนี้พี่ๆที่เป็นพนักงานใหม่ได้นำ Notebook ส่วนตัวมาให้ setup สำหรับการ
+Work From Home เช่น ติดตั้ง VPN Seafile และอื่นๆ ในวันนี้พี่อ้วนก็ได้สั่ง พิซซ่า
+มาทานกันอีกเช่นเคย
+MERRY CHRISTMAS (♡´౪`♡) </description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 16</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day16/</link>
+      <pubDate>Thu, 24 Dec 2020 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day16/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 16 ในวันนี้ผมได้ทำการเดินติดตั้ง batch file ให้กับพี่ๆในบริษัทที่เหลืออยู่ (ชั้น 3 )
+มีติดปัญหาอยู่บ้าง แต่ในที่สุดแล้วงานชิ้นนี้ก็ได้ผ่านไปด้วยดี</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 15</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day15/</link>
+      <pubDate>Wed, 23 Dec 2020 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day15/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 15 ในวันนี้ผมได้ทำการแก้พื้นหลังของ Intranet แก้ไปแก้มา ผมเลยได้ทำขึ้นมาใหม่เลย
+แต่เมื่อลองเอาให้พี่ฉ่อยดูแต่ก็ต้องแก้ไขต่อไปสักพักและในทีสุดระบบ Intranet ก็สมบูรณ์</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 14</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day14/</link>
+      <pubDate>Tue, 22 Dec 2020 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day14/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 14 ในวันนี้พี่ฉ่อยได้บอกว่าจะทำการนำบล็อกที่ผมเขียนนี้ขึ้น Server ของบริษัทผมจึงทำการ
+ใช้คำสั่ง Hugo เพื่อ Export ให้ออกมาในรูปแบบของ Html และให้พี่่ฉ่อยทำการอัพขึ้นไปที่ Server
+แต่เมื่อได้อัพขึ้นไปนั้นก็ต้องตกใจเพราะว่า พื้นหลังที่ควรจะขึ้นกลับไม่แสดงออกมา ปัญหานี้ผมลองแก้อยู่สักพัก(ข้ามวัน)</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 13</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day13/</link>
+      <pubDate>Mon, 21 Dec 2020 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day13/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 13 ในช่วงเช้าวันนี้เป็นความตื่นเต้นอย่างแท้จริง ในตอนเช้าผมได้ข่าวมาจากพี่หลิวว่าตัวพี่หลิว
+ต้องทำงานแบบ Work from home นั่นเป็นเรื่องเล็กเพราะหลังจากนั้นพี่เบลได้เดินมาบอกว่า
+จะมีการทำบุญบริษัทกัน ซึ่งผมก็ต้องรับหน้าที่แทนพี่หลิวในการถ่ายรูปซึ่งนั่นทำให้ผมประหม่าเป็นอย่างมาก
+แต่งานนั้นก็ผ่านไปได้ด้วยดี หลังจากนั้นก็เป็นการกินข้าวกัน อาหารอร่อยมากครับ
+ไม่นานหลังจากนั้นพี่หลิวก็บอกว่าต้องการโน๊ตบุ๊คในการทำงานจึงได้ให้ผมเตรียมเอาไว้
+แต่พอถึงเวลาที่พี่หลิวใกล้มาถึง พี่อ้วนก็ได้บอกให้ผมไปเตรียมอุปกรณ์สำหรับห้องประชุม
+เมื่อเสร็จจากความวุ่นวายตรงนี้แล้ว ผมก็ได้มานั่งทำการแก้ไขระบบ Intranet ต่อตามที่พี่ฉ่อยสั่งไว้</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 12</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day12/</link>
+      <pubDate>Fri, 18 Dec 2020 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day12/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 12 ในช่วงเช้าวันนี้เป็นการประชุม สื่อสารองกรณ์ เป็นการพูดคุยกันเกี่ยวกับ EGATi
+ผมกับพี่หลิวได้รับหน้าที่ให้ไปติดตั้งกล้องสำหรับการประชุม (กล้องตัวเมื่อวาน)
+ซึ่งการประชุมในครั้งนี้เป็นการประชุมที่น่าสนใจ ของว่างอร่อย วิวสวย และเมื่อเสร็จประชุม
+พี่เบล ก็ได้ชวนไปฟังการประชุมอีกที่หนึ่งซึ่งเป็นการประชุมกับ ธรรมนิติเพื่อตรวจสอบ TOR ที่เขียนขึ้น
+เป็นประสบการณ์ที่ดีสำหรับผมมาก</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 11</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day11/</link>
+      <pubDate>Thu, 17 Dec 2020 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day11/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 11 วันนี้ผมป่วย &amp;ndash;ไม่ได้มาทำงาน&amp;ndash;</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 10</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day10/</link>
+      <pubDate>Wed, 16 Dec 2020 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day10/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 10 ในวันนี้ผมก็ได้ทำการอ่านและลองแก้ไขโค้ดที่ได้นำมาจากพี่หลิว
+และได้ลองแก้ไข ฟอนต์ และ เพิ่มพื้นหลังให้กับ เว็บไซต์ยังไม่ได้ทำอะไรมาก</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 9</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day9/</link>
+      <pubDate>Tue, 15 Dec 2020 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day9/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 9 ในช่วงเช้าวันนี้ผมก็ได้ลอง clone โค้ดของพี่หลิวมาจาก gitlab และลองอ่านดู และพี่ฉ่อยก็เดินเข้ามา
+และได้ให้ลองใช้ Trelloดู Trello เป็นเว็บแอพที่ใช้ระบบ kanban ในการจัดการตารางงาน
+เพื่อที่จะได้วางแผนการทำงานให้เป็นระเบียบ ผมก็ได้ลองเล่นลองใช้ดู ก็พบว่า เป็นประโยชน์มากและได้นำมา
+ใช้กับการวางแผนเขียน intranet และ blog ส่วนตัว</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 8</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day8/</link>
+      <pubDate>Mon, 14 Dec 2020 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day8/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 8 วันจันทร์อีกแล้ว ผมได้แต่คิดอยู่ในใจ แต่ก็ต้องจำใจแบกร่างกายที่เต็มไปด้วยความง่วงไปทำงานในเช้าวันจันทร์
+งานในวันนี้คือการเขียน โพสประสบการณ์การทำงานของสัปดาห์ที่แล้ว ซึ่งก็นั่งนึกอยู่นาน(ที่จริงควรเขียนทุกวัน)
+หลังจากที่เขียนจนทันแล้วพี่ฉ่อยก็ได้ เรียกเข้าไปที่ห้องประชุม 2 เพื่อที่จะได้เริ่มการแก้ไขระบบ intranet ของบริษัท
+และก็ได้แนวทางในที่สุดนั่นคือนำโค้ดของพี่หลิวที่ได้ทำก่อนหน้ามาเพิ่ม</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 7</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day7/</link>
+      <pubDate>Wed, 09 Dec 2020 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day7/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 7 ในช่วงเช้าวันนี้เป็นการประชุม สื่อสารองกรณ์ เป็นการพูดคุยกันเกี่ยวกับ EGATi
+ผมกับพี่หลิวได้รับหน้าที่ให้ไปติดตั้งกล้องสำหรับการประชุม (กล้องตัวเมื่อวาน)
+ซึ่งการประชุมในครั้งนี้เป็นการประชุมที่น่าสนใจ ของว่างอร่อย วิวสวย และเมื่อเสร็จประชุม
+พี่เบล ก็ได้ชวนไปฟังการประชุมอีกที่หนึ่งซึ่งเป็นการประชุมกับ ธรรมนิติเพื่อตรวจสอบ TOR ที่เขียนขึ้น
+เป็นประสบการณ์ที่ดีสำหรับผมมาก</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 6</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day6/</link>
+      <pubDate>Tue, 08 Dec 2020 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day6/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 6 ในเช้าวันนี้พี่ฉ่อยเดินมาถามว่า Hugo ที่มอบหมายไว้เป็นไงบ้าง
+ซึ่งผมที่เมื่อวานได้ทำ Flask ไปจึงตอบว่า ยังไม่ถึงไหนเลยครับ
+(ผมคิดในใจ)
+ไหนบอกว่าจันทร์ - อังคาร เรียนรู้เรื่อง Flask
+ผมเลยรีบเขียน Diary ในส่วนของ Hugo ตามที่ได้รับมอบหมายไว้
+จนทำในส่วนของวันที่ 1-4 เสร็จ และในช่วงบ่ายก็มีอุปกรณ์มาให้ทดสอบ
+เป็นกล้องและลำโพงสำหรับการประชุม</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 5</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day5/</link>
+      <pubDate>Mon, 07 Dec 2020 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day5/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 5 ในวันนี้เป็นวันที่พี่ฉ่อยได้ลาผมจึงมีเวลาในการศึกษา Flask ต่อจากเดิม
+ในวันนี้ผมเลยได้ทำ Flask ต่อให้สามารถ Log in และ Register ผู้ใช้
+รวมถึงการ valid ข้อมูล ที่ใช้ในการลงทะเบียน และ แต่งเติม UI เล็กน้อย</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 4</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day4/</link>
+      <pubDate>Fri, 04 Dec 2020 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day4/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 4 เข้าสู่การนั่งงม Hugo เป็นวันที่ 2 ซึ่งในวันนี้ก็เจอ Theme
+ที่ค่อนข้างเข้าใจง่ายทำให้การแก้ไขเป็นไปได้ด้วยดี
+เลยทำให้ผมทำไปได้เรื่อยๆ แต่ในตอนเที่ยงพี่ฉ่อยก็เดินมาเรียก
+พร้อมกับบอกว่า จะให้แบ่งเวลาในการเรียนรู้
+เป็นเรื่องที่พี่ฉ่อย และ พี่อ้วนให้เรียนรู้ก็คือ Hugo และ Flask แบ่งเป็น
+ จ.- อ. เรียนรู้เรื่อง Flask พ.-พฤ. เรียนรู้เรื่อง Hugo ศ. เรียนรู้เรื่องเทคโนโลยีใหม่ๆ ให้ลองหามาเพื่อเรียนรู้เอง  ซึ่งวันนั้นก็คือวันศุกร์ พี่ฉ่อยก็เลยให้ลองไปหามาเลย ที่ผมหามาก็คือ
+MERN Stack ย่อมาจาก
+ M Mongo DB E Express R React Native N Node Js  ซึ่งผมก็อ่านๆ และ ลองศึกษาดู และนี่ก็หมดสำหรับการทำงานในวันที่ 4</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 3</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day3/</link>
+      <pubDate>Thu, 03 Dec 2020 14:30:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day3/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 3 ในวันนี้ผมก็ได้ลองนั่งแก้นั่งงม การใช้ Hugo ไปเรื่อยๆไม่มีอะไรเปลี่ยนแปลงมาก
+เมื่อถึงตอนเย็นพี่ฉ่อยก็เรียกมาเพื่อดูวิธีการใช้ Linux และ Docker
+วันนี้ก็ยังไม่มีอะไรมากเช่นเคย</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 2</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day2/</link>
+      <pubDate>Wed, 02 Dec 2020 14:30:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day2/</guid>
+      <description>ประสบการณ์การทำงานในวันที่ 2 วันนี้พี่ฉ่อยมาถึงก็ได้ถามถึงเรื่องว่าเคยทำอะไรมาไหมเหมือนกับที่พี่อ้วนถาม
+แต่พี่ฉ่อยได้ให้ลองทำอีกเรื่องที่ต่างไปจากพี่อ้วนนั่นคือ
+ Hugo Staticgen Theme ทบทวนการใช้ HTML และ CSS สำหรับการแก้ไข Hugo  พี่ฉ่อยเป็นคนที่ตลกค่อนข้างขี้เล่นแต่เป็นพี่ที่ให้คำแนะนำที่ดี ในวันนี้ก็ได้ลองทำ Hugo
+แต่ก็ยังทำไม่ได้ในทันที จึงต้องเรียนรู้ต่อไป</description>
+    </item>
+    
+    <item>
+      <title>การเอาชีวิตรอดวันที่ 1</title>
+      <link>https://easy.egati.co.th/tarblog/posts/day1/</link>
+      <pubDate>Tue, 01 Dec 2020 13:50:50 +0700</pubDate>
+      
+      <guid>https://easy.egati.co.th/tarblog/posts/day1/</guid>
+      <description>ประสบการณ์การทำงานในวันแรก ในวันแรกยังไม่มีเรื่องอะไรให้เล่ามากนักเพราะพี่ฉ่อย พี่เลี้ยงที่คอยดูแลนั้นไม่มา
+วันแรกเจอแค่พี่หลิว พี่อ้วน ซึ่งพี่อ้วนได้ถามประมาณว่า เคยเรียนอะไร หรือ พอรู้อะไรมาบ้างไหม
+ซึ่งผมนั้นไม่รู้อะไรเกี่ยวกับเทคโนโลยีที่ใช้ในการฝึกงานครั้งนี้เลย พี่อ้วนเลยแนะนำให้ผมไปเรียนรู้เรื่อง
+ Python flask ทบทวนการใช้ git HTML CSS  ในช่วงบ่ายผมเลยได้ลองเขียนเว็บของตัวเองโดยใช้ Python flask และอาศัยดูวิดีโอจาก youtube
+ทำไปเรื่อยๆจนถึงเวลาเลิกงาน และกลับบ้าน และนี่คือประสบการณ์การทำงานในวันแรก</description>
+    </item>
+    
+  </channel>
+</rss>

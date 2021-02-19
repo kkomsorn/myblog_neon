@@ -1,0 +1,99 @@
+body {
+    display: flex;
+    color: #323232;
+    background-color: #fefefe;
+    font-family: 'Fira Mono', monospace;
+    font-size: 2em;
+    font-weight: 400;
+    letter-spacing: .0625em;
+    line-height: 1.8em
+}
+
+a, p, h1, h2,i,h3,li,ul {
+    color: #727272;
+}
+
+.bg {
+    font-family: 'Kanit', sans-serif;
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+    background-attachment: fixed;
+}
+
+.next-post {
+    text-align: right;
+    padding-right: 5px;
+}
+
+.prev-post {
+    text-align: left;
+    padding-left: 5px;
+}
+
+.magnifyBtn {
+    padding-left: 10px;
+
+    border-radius: 6px;
+    transition: transform 250ms ease-in-out;
+}
+
+.magnifyBtn:hover a,h1{
+    transform: scale(1.10);
+    color: #fff;
+    text-shadow: 0 0 10px #03bcf4, 0 0 20px #03bcf4, 0 0 40px #03bcf4, 0 0 80px #03bcf4, 0 0 120px #03bcf4;
+}
+
+.magnifyBtn:active {
+    transform: scale(.9);
+}
+
+.magnifyText {
+    color: hsl(222, 25%, 14%);
+    transition: 0.25s ease-in-out, transform 0.25s ease-in-out;
+}
+
+.magnifyText:hover a,h1{
+    transform: scale(1.05);
+    color: #fff;
+    text-shadow: 0 0 10px #03bcf4, 0 0 20px #03bcf4, 0 0 40px #03bcf4, 0 0 80px #03bcf4, 0 0 120px #03bcf4;
+}
+
+.magnifyText:active {
+    transform: scale(.9);
+}
+
+.neon {
+    margin-bottom: 40px;
+    font-size: 3em;
+    font-weight: 600;
+    animation: animate 5s linear infinite;
+}
+
+@keyframes animate {
+    0%, 18%, 20%, 50.1%, 60%, 65.1%, 80%, 90.1%, 92% {
+        color: #323232;
+        text-shadow: none;
+    }
+    18.1%, 20.1%, 30%, 50%, 60.1%, 65%, 80.1%, 90%, 92.1%, 100% {
+        color: #fff;
+        text-shadow: 0 0 10px #03bcf4, 0 0 20px #03bcf4, 0 0 40px #03bcf4, 0 0 80px #03bcf4, 0 0 120px #03bcf4;
+    }
+}
+
+a {
+    font-weight: 700;
+    text-decoration: none
+}
+
+.neon3 {
+    color: #fff;
+    text-shadow: 0 0 10px #03bcf4, 0 0 20px #03bcf4, 0 0 40px #03bcf4, 0 0 80px #03bcf4, 0 0 120px #03bcf4;
+}
+i{
+    transition: 0.25s ease-in-out, transform 0.25s ease-in-out;
+}
+i:hover{
+    color: #fff;
+    text-shadow: 0 0 10px #03bcf4, 0 0 20px #03bcf4, 0 0 40px #03bcf4, 0 0 80px #03bcf4, 0 0 120px #03bcf4;
+}
+
